@@ -1,7 +1,7 @@
 {
-  "name": "@capacitor/core",
-  "version": "2.2.1",
-  "description": "Capacitor: cross-platform mobile apps with the web",
+  "name": "@talesmattos/capacitor-core-221-fcm-23-push-notification-fix",
+  "version": "2.2.1-1",
+  "description": "Capacitor: cross-platform mobile apps with the web (updating FCM to support Android S+)",
   "homepage": "https://capacitor.ionicframework.com/",
   "author": "Ionic Team <hi@ionic.io> (https://ionicframework.com) ",
   "license": "MIT",
